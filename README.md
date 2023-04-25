@@ -23,7 +23,7 @@ A progressive web app text-editor.
 ## Installation
 View at the link below. Optionally download as a native app.
 ## Usage
-Simply view at the link here.
+Simply view at the link [here](https://w-pwa-te.herokuapp.com/).
 ## Credits
 N/A
 ## License
